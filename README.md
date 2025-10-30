@@ -1,2 +1,2 @@
 # JavaScript
-There is total 76 class in this repository. 
+There are 76 classes in this repository.
